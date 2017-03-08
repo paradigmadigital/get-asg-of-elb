@@ -1,0 +1,5 @@
+---
+# defaults file for get-asg-of-elb
+elb:
+  name   :
+  region :
